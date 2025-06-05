@@ -1,0 +1,3 @@
+task_man/
+__pycache__/
+db.sqlite3
